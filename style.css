@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.jumbotron {
+    color: white;
+    background-color:black;
+    padding: 30px;
+    text-align: center;
+}
+section {
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Sorts Mill Goudy', serif;
+    font-family: 'Old Standard TT', serif;
+    font-family: 'Exo', sans-serif;
+}
+
+.card-header {
+    background-color: black;
+    color: white;
+}
+
+form {
+    margin: 5px;
+}
